@@ -1,1 +1,1 @@
-Code and model will be released soon.
+Code will be released soon.
