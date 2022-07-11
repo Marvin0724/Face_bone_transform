@@ -1,0 +1,4 @@
+bme_gpu10
+start on Wed Jan 5 19:45:56 CST 2022
+tf_grouping_compile.sh: line 2: /usr/local/cuda-8.0/bin/nvcc: No such file or directory
+end on Wed Jan 5 19:46:00 CST 2022

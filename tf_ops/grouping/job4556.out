@@ -1,0 +1,4 @@
+bme_gpu10
+start on Wed Jan 5 19:46:56 CST 2022
+nvcc warning : The 'compute_20', 'sm_20', and 'sm_21' architectures are deprecated, and may be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).
+end on Wed Jan 5 19:47:02 CST 2022

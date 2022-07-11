@@ -1,0 +1,11 @@
+#!/bin/bash
+#SBATCH -J LJP
+#SBATCH -N 1
+#SBATCH -n 2
+#SBATCH --gres=gpu:1
+#SBATCH -o job%j.out
+#SBATCH -e job%j.out
+echo ${SLURM_JOB_NODELIST}
+echo start on $(date)
+sh tf_interpolate_compile.sh
+echo end on $(date)
