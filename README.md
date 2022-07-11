@@ -1,6 +1,6 @@
-## Bidirectional prediction of facial and bony shapes for orthognathic surgical planning
+# Bidirectional prediction of facial and bony shapes for orthognathic surgical planning
 
-# Prerequisites
+## Prerequisites
 
 Linux (tested under Ubuntu 16.04 )  
 Python (tested under 2.7)  
@@ -10,7 +10,7 @@ numpy, h5py
 The code is built on the top of PointNET++ and PointConv. 
 Before run the code, please compile the customized TensorFlow operators of PointNet++ under the folder "/Prediction_net/tf_ops".
 
-# Train and test
+## Train and test
 
 To trian a model:
 
