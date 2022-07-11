@@ -1,4 +1,4 @@
-## Bidirectional prediction of facial surface and bony structure for orthognathic surgical planning
+## Bidirectional prediction of facial and bony shapes for orthognathic surgical planning
 
 Prerequisites
 
